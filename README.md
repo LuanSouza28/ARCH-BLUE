@@ -27,3 +27,5 @@ papel de parede errado,
 Edite e salve tudo certinho,Por fim reinicie.
 
 Para baixar pelo terminal :
+
+https://github.com/LuanSouza28/ARCH-BLUE.git

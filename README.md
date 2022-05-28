@@ -1,4 +1,4 @@
-# Arch BLUE GRUB tema 🎨
+# ARCH BLUE GRUB tema 🎨
  Extraia os arquivos para Área de Trabalho,depois abra o terminal digite o 
  comando para abrir o genciador de arquivos root do seu sistema,vá até a pasta /boot/grub/themes,
  e cole o tema Arch BLUE,atualize o grub com os comandos:
